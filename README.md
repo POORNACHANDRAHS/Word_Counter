@@ -28,6 +28,6 @@ Ready to dive in and start counting words? Here's all you need:
 ```bash
 git clone https://github.com/yourusername/word-counter.git
 cd word-counter
-python word_counter.py
+python wordcount.py
 ```
 
