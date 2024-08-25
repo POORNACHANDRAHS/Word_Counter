@@ -23,8 +23,12 @@ This project is perfect for anyone looking to sharpen their Python skills while 
 
 ## 🎉 Get Started
 
-Clone this repository and start counting words today! Whether you're polishing your coding skills or just need a reliable word counter, this project is a great addition to your toolkit.
+Clone this repository and start counting words today! 
+
+``bash
 git clone https://github.com/yourusername/word-counter.git
 cd word-counter
 python word_counter.py
+```
+
 
