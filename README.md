@@ -29,6 +29,6 @@ Clone this repository and start counting words today!
 git clone https://github.com/yourusername/word-counter.git
 cd word-counter
 python word_counter.py
-```
+``
 
 
