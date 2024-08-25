@@ -26,8 +26,8 @@ This project is perfect for anyone looking to sharpen their Python skills while 
 Ready to dive in and start counting words? Here's all you need:
 
 ```bash
-git clone https://github.com/yourusername/word-counter.git
-cd word-counter
+git clone https://github.com/POORNACHANDRAHS/word_counter.git
+cd word_counter
 python wordcount.py
 ```
 
